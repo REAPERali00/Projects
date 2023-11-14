@@ -23,12 +23,16 @@ This repository contains a collection of various projects demonstrating my skill
 
 ### Tic Tac Toe
 - **Languages:** Java, Swing
-- **Description:** A beginner-friendly game implemented in command line with an array-based board, and a GUI interface developed using Swing.
+- **Description:** A beginner-friendly game implemented in the command line with an array-based board, and a GUI interface developed using Swing.
 
 ### Tax Grocery Calculator
 - **Languages:** Java, Android Studio
 - **Description:** Collaborative project for calculating grocery totals with dynamic tax options and item management. Developed with Android Studio, showcasing mobile app development skills.
 
+### Calculator
+- **Languages:** Java, Swing
+- **Description:** A GUI calculator made in Eclipse using Java and Swing, employing recursion and regular expressions for calculations.
+  
 ## C/C++ Projects
 
 ### Student Data
@@ -51,13 +55,7 @@ This repository contains a collection of various projects demonstrating my skill
 - **Language:** C
 - **Description:** Utilizes a 64-bit unsigned long integer to schedule exams, managing time slot collisions.
 
-### 3D Pong Game
-- **Languages:** C++, Unreal Engine
-- **Description:** A 3D pong game made in Unreal Engine, featuring AI opponents and a HUD for scorekeeping.
 
-### Color Shooter
-- **Languages:** C++, Unreal Engine
-- **Description:** A game with enemy spawners, multiple projectile types, and health management.
 
 ## Arduino Projects
 
@@ -83,15 +81,20 @@ This repository contains a collection of various projects demonstrating my skill
 - **Technologies:** JEE, React, NetBeans, GlassFish
 - **Description:** A Heartbeat Game Web Application with a RESTful HTTP API, front-end in React, and testing using JUnit and Selenium.
 
-## Game Development Projects
-
-### Calculator
-- **Languages:** Java, Swing
-- **Description:** A GUI calculator made in Eclipse using Java and Swing, employing recursion and regular expressions for calculations.
-
-### Fans & Sports Car Subscription
+  ### Fans & Sports Car Subscription
 - **Languages:** C#, .NET
 - **Description:** Manages a subscription-based service using .NET, featuring database handling and a blob service for sports news.
+
+## Game Development Projects
+
+### 3D Pong Game
+- **Languages:** C++, Unreal Engine
+- **Description:** A 3D pong game made in Unreal Engine, featuring AI opponents and a HUD for scorekeeping.
+
+### Color Shooter
+- **Languages:** C++, Unreal Engine
+- **Description:** A game with enemy spawners, multiple projectile types, and health management.
+
 
 ---
 
