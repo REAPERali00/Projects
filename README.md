@@ -12,7 +12,7 @@ This repository contains a collection of various projects demonstrating my skill
 
 ## Java Projects
 
-### Student Data Organizer
+### [Student Data Organizer](https://github.com/REAPERali00/Projects)
 - **Language:** Java
 - **Description:** A program that uses an Array List to take data from the user and outputs it in table format.
 
