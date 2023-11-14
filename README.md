@@ -1,7 +1,7 @@
 # Project Portfolio
 
 This repository contains a collection of various projects demonstrating my skills and experience in software development, spanning different programming languages and frameworks.
-**PLEASE NOTE** that the link to the projects are not included yet, but most can be provided upon request
+-**PLEASE NOTE** that the link to the projects are not included yet, but most can be provided upon request
 
 ## Table of Contents
 
