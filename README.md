@@ -81,7 +81,7 @@ This repository contains a collection of various projects demonstrating my skill
 - **Technologies:** JEE, React, NetBeans, GlassFish
 - **Description:** A Heartbeat Game Web Application with a RESTful HTTP API, front-end in React, and testing using JUnit and Selenium.
 
-  ### Fans & Sports Car Subscription
+### Fans & Sports Car Subscription
 - **Languages:** C#, .NET
 - **Description:** Manages a subscription-based service using .NET, featuring database handling and a blob service for sports news.
 
